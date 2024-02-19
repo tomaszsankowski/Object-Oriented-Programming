@@ -1,0 +1,21 @@
+10 10 20 4
+true Lis 3 7 1 6 1 7 10
+true Wilk 9 5 3 7 2 7 10
+true Wilk 9 5 0 8 0 8 1
+true Wilk 9 5 1 9 1 9 1
+true Wilk 9 5 2 9 2 9 1
+true Wilk 9 5 0 7 0 7 1
+true Wilk 9 5 1 8 1 8 1
+true Wilk 9 5 2 8 2 8 1
+true Czlowiek 5 4 0 9 0 9 10
+true Antylopa 4 4 9 6 9 6 10
+false Owca 4 4 7 8 6 8 2
+true Zlow 2 1 1 0 1 0 10
+true BarszczSosnowskiego 10 0 7 9 7 9 10
+true Guarana 0 0 9 9 9 9 10
+true Mlecz 0 0 4 8 4 8 10
+true Trawa 0 0 2 1 2 1 10
+true WilczeJagody 99 0 5 2 5 2 10
+true Trawa 0 0 3 1 3 1 9
+true Trawa 0 0 2 0 2 0 4
+true Mlecz 0 0 4 7 4 7 0

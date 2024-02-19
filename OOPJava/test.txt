@@ -1,0 +1,18 @@
+10 10 17 -5
+true Lis 3 7 0 4 1 4 5
+true Wilk 9 5 1 2 0 2 5
+true Czlowiek 5 4 9 6 9 5 5
+true Owca 4 4 7 1 8 1 5
+true Antylopa 4 4 6 4 6 5 5
+true Zlow 2 1 0 8 0 8 5
+true BarszczSosnowskiego 10 0 4 3 4 3 5
+true Guarana 0 0 3 7 3 7 5
+true Mlecz 0 0 3 3 3 3 5
+true Trawa 0 0 8 4 8 4 5
+true WilczeJagody 99 0 5 7 5 7 5
+true BarszczSosnowskiego 10 0 4 2 4 2 4
+true Guarana 0 0 3 6 3 6 2
+true BarszczSosnowskiego 10 0 3 2 3 2 2
+true Mlecz 0 0 3 4 3 4 1
+true BarszczSosnowskiego 10 0 4 1 4 1 1
+true Trawa 0 0 8 5 8 5 0
