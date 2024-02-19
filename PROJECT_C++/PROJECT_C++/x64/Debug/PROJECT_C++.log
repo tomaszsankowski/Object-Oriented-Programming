@@ -1,0 +1,5 @@
+﻿  Swiat.cpp
+C:\Users\Tomasz\Desktop\OOP\PROJECT_C++\PROJECT_C++\Swiat.cpp(69): warning C4715: "Swiat::getOkupant”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Tomasz\Desktop\OOP\PROJECT_C++\PROJECT_C++\Swiat.cpp(181): warning C4715: "Swiat::sprawdzCzyZyje”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Tomasz\Desktop\OOP\PROJECT_C++\PROJECT_C++\Swiat.cpp(189): warning C4715: "Swiat::sprawdzCzyZyje”: niewszystkie ścieżki kodu zwracają wartość
+  PROJECT_C++.vcxproj -> C:\Users\Tomasz\Desktop\OOP\PROJECT_C++\x64\Debug\PROJECT_C++.exe

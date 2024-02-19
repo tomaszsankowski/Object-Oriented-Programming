@@ -1,0 +1,17 @@
+10 10 16 3
+0 Lis 3 7 1 7 0 7 2
+1 Wilk 9 5 5 9 6 9 5
+1 Antylopa 4 4 8 3 9 3 10
+1 Czlowiek 5 4 4 5 4 5 5
+1 Owca 4 4 1 8 1 8 4
+1 Zlow 2 1 4 9 4 9 4
+1 BarszczSosnowskiego 99 0 7 6 7 6 5
+1 Guarana 0 0 3 0 3 0 4
+1 Mlecz 0 0 0 8 0 8 4
+1 Trawa 0 0 7 5 7 5 4
+1 WilczeJagody 99 0 1 0 1 0 4
+1 BarszczSosnowskiego 99 0 7 7 7 7 4
+1 Guarana 0 0 3 1 3 1 3
+0 Mlecz 0 0 1 8 1 8 1
+1 BarszczSosnowskiego 99 0 8 6 8 6 0
+1 Guarana 0 0 2 1 2 1 0
